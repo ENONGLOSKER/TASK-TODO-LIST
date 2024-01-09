@@ -14,6 +14,7 @@ body{
 .todo-list{
     background-image: linear-gradient(90deg, rgb(10, 158, 172), rgb(3, 139, 151));
     border-radius: 8px;
+    box-shadow: 5px 4px 50px rgb(95, 238, 188);
     margin: 50px auto;
     padding: 10px 20px;
     width: 300px;
